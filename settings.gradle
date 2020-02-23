@@ -1,0 +1,4 @@
+include ':test', ':translate'
+include 'cropper'
+include 'sample'
+include 'quick-start'
